@@ -1,7 +1,8 @@
 ## 💻 Projeto
 
 <p align="center">
-  <img alt="Página de Receitas" src="https://github.com/pallomagualter/paginaDeReceita/blob/main/assets/recipe-page.png" width="100px" />
+  <img alt="Página de Receitas" src="https://github.com/pallomagualter/paginaDeReceita/blob/main/assets/recipe-page.png" width="80%"
+ />
 </p>
 
 ## 📝 Licença
